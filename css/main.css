@@ -1,0 +1,22 @@
+.sd_count{
+    
+    
+}
+header{
+    height: 110px;
+    
+    background-color: purple;
+}
+main{
+    height: 1200px;
+ 
+    background-color:white ;
+}
+footer{
+    height: 69px;
+   
+    background-color: aqua;
+}
+.a_tbdr{ /*temproary border */
+   
+}
